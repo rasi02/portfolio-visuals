@@ -1,2 +1,19 @@
-# portfolio-visuals
+# 📊 Portfolio Visuals
+
 A showcase of dashboards and notebooks demonstrating data visualization and predictive modeling skills using tools like Power BI, Tableau, and Python.
+
+## 🖼️ Dashboards
+
+| Tool     | Description                                | Preview |
+|----------|--------------------------------------------|---------|
+| Tableau  | Customer Pipeline Dashboard                | ![Customer Pipeline](Customer pipeline dashboard_Tableau.jpeg) |
+| Tableau  | Executive Sales Dashboard                  | ![Executive Sales](Executive sales dashboard_Tableau.png) |
+| Tableau  | Inventory & Purchasing Manager Dashboard   | ![Inventory Dashboard](Inventory & purchasing manager dashboard_Tableau.png) |
+| Power BI | LF Stockholm Dashboard                     | ![Stockholm Dashboard](LF Stockholm dashboard_Power BI.png) |
+| Looker   | Marketing Dashboard                        | ![Marketing Dashboard](Marketing dashboard_Looker.jpg) |
+
+## 📄 Analytical Report
+
+- **Identifying EV Owners** (Retail Strategy)  
+  📄 [View PDF](Identifying EV owners_RS.pdf)
+
