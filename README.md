@@ -12,8 +12,10 @@ A showcase of dashboards and notebooks demonstrating data visualization and pred
 | Power BI | LF Stockholm Dashboard                     | ![Stockholm Dashboard](LF Stockholm dashboard_Power BI.png) |
 | Looker   | Marketing Dashboard                        | ![Marketing Dashboard](Marketing dashboard_Looker.jpg) |
 
-## 📄 Analytical Report
+## 📄 Predictive Modeling Report
 
 - **Identifying EV Owners** (Retail Strategy)  
+  This report showcases a predictive model built to identify potential electric vehicle owners using consumer data and statistical techniques.  
   📄 [View PDF](Identifying EV owners_RS.pdf)
+
 
