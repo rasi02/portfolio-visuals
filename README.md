@@ -16,7 +16,7 @@ A showcase of dashboards and notebooks demonstrating data visualization and pred
 
 - **Identifying EV Owners** (Retail Strategy)  
   This report showcases a predictive model built to identify potential electric vehicle owners using consumer data and statistical techniques.
-📄 [View PDF](Identifying EV owners_RS.pdf)
+📄 [View PDF]https://drive.google.com/file/d/1KIObKcbjO1RopIHToD9bma5aMTkfT4my/view?usp=sharing
 
 
 
