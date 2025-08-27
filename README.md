@@ -1,6 +1,7 @@
 # 📊 Portfolio Visuals
 
-A showcase of dashboards and notebooks demonstrating data visualization and predictive modeling skills using tools like Power BI, Tableau, and Python.
+A curated collection of dashboards, predictive models, business insights, and certifications showcasing expertise in data visualization, analytics, and programming.  
+Projects span tools like Power BI, Tableau, Looker, and Python, with a focus on turning data into actionable strategies across sales, marketing, operations, and finance.
 
 ## 🖼️ Dashboards
 
@@ -27,8 +28,8 @@ This report showcases a predictive model built to identify potential electric ve
 
 ## 🎓 Certifications & Coursework
 
-| Course              | Provider                  | Year | Credential |
-|---------------------|---------------------------|------|------------|
+| Course              | Provider                    | Year | Credential |
+|---------------------|-----------------------------|------|------------|
 | Advanced SQL        | Learning Tree International | 2024 | [📄 View Diploma](https://drive.google.com/file/d/1_eoWxZwe6fW1f4TzjCZdoS7diaH_0xXS/view?usp=drive_link) |
 | Advanced Python     | Learning Tree International | 2024 | [📄 View Diploma](https://drive.google.com/file/d/1UwUr0ujR8jqJJHMl3mqkCEQSCmhZYbL5/view?usp=drive_link) |
 | Transcript          | Covers Advanced SQL only (no exam in Python course) | — | [📄 View Transcript](https://drive.google.com/file/d/14PxbE01Sm74nLu8pgcOFwF3tZ7PohAZa/view?usp=drive_link) |
