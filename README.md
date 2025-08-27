@@ -22,5 +22,5 @@ This report showcases a predictive model built to identify potential electric ve
 
 | Project            | Description                                                                 | Link |
 |--------------------|------------------------------------------------------------------------------|------|
-| Expense-snurran    | A financial tool designed to visualize and optimize personal or business expenses. | 🔗 Coming soon |
+| Expense-snurran    | A modern solution for expense reporting and travel claims, fully integrated with Visma.net. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
 | Koll på lön-analys | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsgladje-och-digital-framvaxt-i-lonebranschen) |
