@@ -1,5 +1,7 @@
 # 📊 Portfolio Visuals
 
+**Dashboards, predictive models, and business insights built with Tableau, Power BI, Python & SQL. Certified in Advanced SQL & Python.**
+
 A curated collection of dashboards, predictive models, business insights, and certifications showcasing expertise in data visualization, analytics, and programming.  
 Projects span tools like Power BI, Tableau, Looker, and Python, with a focus on turning data into actionable strategies across sales, marketing, operations, and finance.
 
