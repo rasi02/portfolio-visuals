@@ -17,3 +17,10 @@ A showcase of dashboards and notebooks demonstrating data visualization and pred
 - **Identifying EV Owners** (Retail Strategy)  
 This report showcases a predictive model built to identify potential electric vehicle owners using consumer data and statistical techniques.  
 📄 [View PDF](https://drive.google.com/file/d/1KIObKcbjO1RopIHToD9bma5aMTkfT4my/view?usp=sharing)
+
+## 📈 Business Insights & Analysis
+
+| Project            | Description                                                                 | Link |
+|--------------------|------------------------------------------------------------------------------|------|
+| Expense-snurran    | A financial tool designed to visualize and optimize personal or business expenses. | 🔗 Coming soon |
+| Koll på lön-analys | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsgladje-och-digital-framvaxt-i-lonebranschen) |
