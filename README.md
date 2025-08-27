@@ -24,3 +24,11 @@ This report showcases a predictive model built to identify potential electric ve
 |--------------------|------------------------------------------------------------------------------|------|
 | Expense-snurran    | A modern solution for expense reporting and travel claims, fully integrated with Visma.net. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
 | Koll på lön-analys | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsgladje-och-digital-framvaxt-i-lonebranschen) |
+
+## 🎓 Certifications & Coursework
+
+| Course              | Provider                  | Year | Credential |
+|---------------------|---------------------------|------|------------|
+| Advanced SQL        | Learning Tree International | 2024 | [📄 View Diploma](https://drive.google.com/file/d/1_eoWxZwe6fW1f4TzjCZdoS7diaH_0xXS/view?usp=drive_link) |
+| Advanced Python     | Learning Tree International | 2024 | [📄 View Diploma](https://drive.google.com/file/d/1UwUr0ujR8jqJJHMl3mqkCEQSCmhZYbL5/view?usp=drive_link) |
+| Transcript          | Covers Advanced SQL only (no exam in Python course) | — | [📄 View Transcript](https://drive.google.com/file/d/14PxbE01Sm74nLu8pgcOFwF3tZ7PohAZa/view?usp=drive_link) |
