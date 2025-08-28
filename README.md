@@ -14,6 +14,8 @@ Projects span tools like Power BI, Tableau, Looker, and Python, with a focus on 
 | Tableau  | Inventory & Purchasing Manager Dashboard   | [📊 View Dashboard](https://drive.google.com/file/d/1VPFoaW_xIyP6B2AgA2poNvd8wkoi5Mx7/view?usp=drive_link) |
 | Power BI | LF Stockholm Dashboard                     | [📊 View Dashboard](https://drive.google.com/file/d/1e_0Zf5ka5OmN8YHIGXmd80oI1nwqoEu0/view?usp=drive_link) |
 | Looker   | Marketing Dashboard                        | [📊 View Dashboard](https://drive.google.com/file/d/1b2-5zkPZMQjvq6A0zNSJ2rLmpNrPeiDg/view?usp=drive_link) |
+| Excel    | Salesfunnel Dashboard (Makrobaserad, CR-analys) | [📊 View Screenshot](https://drive.google.com/file/d/1WlnHa03WevU190UdZREVwaiC7cnf37PX/view?usp=drive_link) |
+
 
 ## 📄 Predictive Modeling Report
 
