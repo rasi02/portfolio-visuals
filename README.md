@@ -30,6 +30,12 @@ This report showcases a predictive model built to identify potential electric ve
 | Expense-snurran    | A modern solution for expense reporting and travel claims, fully integrated with Visma.net. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
 | Koll på lön-analys | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsgladje-och-digital-framvaxt-i-lonebranschen) |
 
+## 📚 Public Sector & National Reports
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Digital kompetens – Självskattningstest | Nationell analys av digital kompetens inom bibliotekssektorn, genomfört inom projektet *Digitalt först med användaren i fokus*. Rapporten används som underlag för kompetensutveckling på både lokal och nationell nivå. | [📄 View Report](https://drive.google.com/file/d/1_jL5yLdHKw_Nrawebt3hzX4Viviq7o2t/view?usp=drive_link) |
+
 ## 🎓 Certifications & Coursework
 
 | Course              | Provider                    | Year | Credential |
