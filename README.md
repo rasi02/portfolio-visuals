@@ -7,11 +7,11 @@ Projects span tools like Power BI, Tableau, Looker, and Python, with a focus on 
 
 ---
 
-## 🐾 AI Creativity Showcase
+## 🧠 AI Creativity Showcase
 
-| Project              | Description                                                                 | Preview |
-|----------------------|-----------------------------------------------------------------------------|---------|
-| Clever Cats Shorts   | A playful short film generated using AI tools to demonstrate creative storytelling, animation, and prompt engineering. | [🎬 Watch Video](https://drive.google.com/file/d/1kfKFWRv7EumtNtQyMGeZ6LYZybm7k_vw/view?usp=drive_link) |
+| Project                         | Description                                                                 | Preview |
+|----------------------------------|-----------------------------------------------------------------------------|---------|
+| AI Agents Are Changing Work Forever | A short explainer video on how AI agents are transforming the workplace—automating tasks, boosting efficiency, and reshaping industries. Highlights the strategic role of AI in modern work life and the importance of reskilling. | [🎬 Watch Video](https://drive.google.com/file/d/1kGwvxuwD4STT7agJOD_ISjKDEBMzFDyS/view?usp=drive_link) |
 
 ---
 
