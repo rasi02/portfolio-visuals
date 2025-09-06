@@ -9,8 +9,8 @@ Projects span tools like Power BI, Tableau, Looker, and Python, with a focus on 
 
 | Project                         | Description                                                                 | Preview |
 |----------------------------------|-----------------------------------------------------------------------------|---------|
-| AI Agents Are Changing Work Forever | A short explainer video on how AI agents are transforming the workplace—automating tasks, boosting efficiency, and reshaping industries. Highlights the strategic role of AI in modern work life and the importance of reskilling. | [🎬 Watch Video](https://drive.google.com/file/d/1kGwvxuwD4STT7agJOD_ISjKDEBMzFDyS/view?usp=drive_link) |
-| Professional Avatar Video       | A personal intro video showcasing my background, skills, and approach to data strategy and digital innovation. | [🎥 Watch Video](https://drive.google.com/file/d/1-tZ0Rw9k2fQaaDeE6FC41uY4r68UjgEA/view?usp=drive_link) |
+| AI Agents Are Changing Work Forever | Explainer video on how AI agents are revolutionizing the workplace—automating tasks, boosting efficiency, and reshaping industries. Emphasizes the strategic role of AI and the need for reskilling. | [🎬 Watch Video](https://drive.google.com/file/d/1kGwvxuwD4STT7agJOD_ISjKDEBMzFDyS/view?usp=drive_link) |
+| Professional Avatar Video       | A personal intro video that highlights my background, core competencies, and approach to data strategy, CRM, and digital innovation. Designed to give a quick, human-centered overview of my professional identity. | [🎥 Watch Video](https://drive.google.com/file/d/1-tZ0Rw9k2fQaaDeE6FC41uY4r68UjgEA/view?usp=drive_link) |
 
 ---
 
