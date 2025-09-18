@@ -36,7 +36,8 @@ This report showcases a predictive model built to identify potential electric ve
 
 ## 📈 Business Insights & Analysis
 
-| Project            | Description                                                                 | Link |
-|--------------------|------------------------------------------------------------------------------|------|
-| Expense-snurran    | A modern solution for expense reporting and travel claims, fully integrated with Visma.net. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
-| Koll på lön-analys | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbets
+| Project                  | Description                                                                 | Link |
+|--------------------------|------------------------------------------------------------------------------|------|
+| Expense-snurran          | A modern solution for expense reporting and travel claims, fully integrated with Visma.net. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
+| Koll på lön-analys       | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsplatsomstallning-i-lonerevolutionen) |
+| Salary Outsourcing Tool | An interactive calculator developed to visualize and analyze cost savings from payroll outsourcing. Supports decision-making and process optimization. | [🌐 Explore Tool](https://agdaps.se/loneoutsourcing) |
