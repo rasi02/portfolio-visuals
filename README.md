@@ -38,6 +38,6 @@ This report showcases a predictive model built to identify potential electric ve
 
 | Project                  | Description                                                                 | Link |
 |--------------------------|------------------------------------------------------------------------------|------|
-| Expense Snurra          | An interactive calculator that helps visualize and quantify potential savings from automating expense reporting and travel claims with Visma.net.. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
+| Expense Snurra          | An interactive calculator that helps visualize and quantify potential savings from automating expense reporting and travel claims with Visma Expense. | [🔗 Learn More](https://www.exsitec.se/affarssystem/visma-net/expense/kvittoredovisning/reserakningar) |
 | Koll på lön-analys       | Analysis of salary trends and digital transformation in payroll, based on Visma’s annual report. | [📄 Read Article](https://www.visma.se/nyheter/stor-arbetsplatsomstallning-i-lonerevolutionen) |
 | Löneoutsourcing Snurra | An interactive calculator developed to visualize and analyze cost savings from payroll outsourcing. Supports decision-making and process optimization. | [🌐 Explore Tool](https://agdaps.se/loneoutsourcing) |
